@@ -3,3 +3,10 @@
     display: flex;
     justify-content: center;
 }
+
+.searchInput{
+    width: 20rem;
+    height: 2rem;
+    padding: 3px;
+    font-size: 15px;
+}
